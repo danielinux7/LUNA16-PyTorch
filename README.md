@@ -1,5 +1,3 @@
-Based on the content of the provided Jupyter Notebooks, here are the guidelines for users of the LUNA16-PyTorch repository:
-
 ## User Guidelines for LUNA16-PyTorch Repository
 
 ### Overview
