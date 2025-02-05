@@ -1,5 +1,5 @@
 ### Overview
-This repository contains code for analyzing and training models for the LUNA16 challenge using PyTorch. The LUNA16 challenge focuses on the automatic detection of lung nodules in chest CT scans.
+This repository contains code for analyzing and training models for the LUNA16 challenge using PyTorch. The LUNA16 challenge focuses on the automatic detection of lung nodules in chest CT scans. The implementation builds upon concepts presented in the "Deep Learning with PyTorch" book
 
 ### Files
 The repository contains the following key Jupyter Notebooks:
